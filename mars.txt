@@ -1,8 +1,5 @@
-Is this a stupid code?
+Run the code to calculate the force field of dislcoation networks
 
-I don'n know
-
-hahha
-haha
+Dislocation dynamics
 
 ++
